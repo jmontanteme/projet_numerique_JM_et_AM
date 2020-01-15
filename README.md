@@ -1,1 +1,3 @@
-# projet_numerique_JM_et_AM
+Projet numérique
+
+Juliette Montantème & Alex Morais Penso
